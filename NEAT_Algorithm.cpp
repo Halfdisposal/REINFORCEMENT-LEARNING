@@ -1,7 +1,7 @@
 #include <armadillo>
 #include <SFML/Graphics.hpp>
 #include <iostream>
-#include "Envs/MoonLander.cpp"
+#include "MoonLander.cpp"
 #include <vector>
 #include <random>
 #include <algorithm>

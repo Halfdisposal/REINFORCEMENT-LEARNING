@@ -146,7 +146,7 @@ std::vector<size_t> getEliteIndices(const std::vector<double>& fitnesses, size_t
 
 
 
-NEATNet run(MoonLanderEnv env, int generations = 10, int population_size = 5, float elite_fraction = 0.5){
+NEATNet run(MoonLanderEnv env, int generations = 10, int population_size = 50, float elite_fraction = 0.5){
     int input_size = env.input_size;
     int output_size = env.output_size;
     int hidden_size = 10;

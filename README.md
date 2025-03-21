@@ -14,4 +14,4 @@ The NEAT_Algorithm.cpp contains the model that utilises the MoonLanding.cpp as t
 
 ## Usage
 compile using a gcc compiler as 
-'g++ NEAT_Algorithm.cpp -o NEAT -larmadilllo -lsfml-window -lsfml-graphics -lsfml-system'
+'g++ NEAT_Algorithm.cpp -o NEAT -larmadillo -lsfml-window -lsfml-graphics -lsfml-system'

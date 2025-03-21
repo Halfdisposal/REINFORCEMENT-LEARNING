@@ -6,9 +6,6 @@ The NEAT_Algorithm.cpp contains the model that utilises the MoonLanding.cpp as t
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Installation
 
